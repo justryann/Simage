@@ -1,2 +1,2 @@
 # Simage
-This app allows you to find similar images.
+This simple basic app allows you to find similar images.
